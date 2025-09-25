@@ -1,0 +1,27 @@
+/* Main styles */
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+footer {
+    background-color: #666;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+main {
+    margin-bottom: 60px; /* Space for fixed footer */
+    padding: 1rem;
+}
