@@ -1,1 +1,11 @@
-/* MAIN STYLE */
+ /* MAIN STYLE */ 
+ header {
+ background-color: #345;
+ color: white;
+ padding: 1rem;
+ }
+ nav a {
+ color: white;
+ text-decoration: italic;
+ margin-right: 1rem;
+ }
